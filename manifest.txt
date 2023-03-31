@@ -1,0 +1,9 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+S01	/u/rafaelsemu/s01_s02/result_X204SC23020335-Z01-F002/00.RawData/S01/S01_1.fastq.gz	/u/rafaelsemu/s01_s02/result_X204SC23020335-Z01-F002/00.RawData/S01/S01_2.fastq.gz
+S02	/u/rafaelsemu/s01_s02/result_X204SC23020335-Z01-F002/00.RawData/S02/S02_1.fastq.gz	/u/rafaelsemu/s01_s02/result_X204SC23020335-Z01-F002/00.RawData/S01/S02_2.fastq.gz
+S03	/u/rafaelsemu/s01_s02/result_X204SC23020335-Z01-F002/00.RawData/S03/S03_1.fastq.gz	/u/rafaelsemu/s01_s02/result_X204SC23020335-Z01-F002/00.RawData/S03/S03_2.fastq.gz
+S04	/u/rafaelsemu/s01_s02/result_X204SC23020335-Z01-F002/00.RawData/S04/S04_1.fastq.gz	/u/rafaelsemu/s01_s02/result_X204SC23020335-Z01-F002/00.RawData/S04/S04_2.fastq.gz
+S05	/u/rafaelsemu/s01_s02/result_X204SC23020335-Z01-F002/00.RawData/S05/S05_1.fastq.gz	/u/rafaelsemu/s01_s02/result_X204SC23020335-Z01-F002/00.RawData/S05/S05_2.fastq.gz
+S06	/u/rafaelsemu/s01_s02/result_X204SC23020335-Z01-F002/00.RawData/S06/S06_1.fastq.gz	/u/rafaelsemu/s01_s02/result_X204SC23020335-Z01-F002/00.RawData/S06/S06_2.fastq.gz
+S07	/u/rafaelsemu/s01_s02/result_X204SC23020335-Z01-F002/00.RawData/S07/S07_1.fastq.gz	/u/rafaelsemu/s01_s02/result_X204SC23020335-Z01-F002/00.RawData/S07/S07_2.fastq.gz
+S08	/u/rafaelsemu/s01_s02/result_X204SC23020335-Z01-F002/00.RawData/S08/S08_1.fastq.gz	/u/rafaelsemu/s01_s02/result_X204SC23020335-Z01-F002/00.RawData/S08/S08_2.fastq.gz
